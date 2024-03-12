@@ -18,7 +18,7 @@ const sudents_data = {
 }
 
 const michal = {
-    FULL_NAME: 'Wisniewski',
+    FULL_NAME: 'Michał Wisniewski',
     STUDENT_ID: 333444
 }
 
